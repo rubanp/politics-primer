@@ -1,0 +1,57 @@
+.wrapper {
+  width: 55%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media only screen and (max-width: 1300px) {
+  .wrapper {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+#start {
+  width: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 2rem;
+  text-shadow: 1px 1px 2px var(--boulder);
+}
+
+p {
+  font-size: 1.5rem;
+  text-shadow: 1px 1px 2px var(--boulder);
+}
+
+button {
+  padding: 0.75em 1.5em;
+  font-size: 1.5rem;
+  color: black;
+  border-color: black;
+  border-width: 0.1em;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: var(--cararra);
+}
+
+button:hover {
+  background-color: var(--forest);
+  color: var(--cararra);
+  cursor: pointer;
+  box-shadow: none;
+  border-radius: 10px;
+}
+
+button:active {
+  background-color: var(--pewter);
+  color: black;
+  cursor: pointer;
+  box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+}

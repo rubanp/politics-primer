@@ -1,0 +1,34 @@
+/* GLOBAL STYLES */
+
+:root {
+  --cararra: #e8e8e1;
+  --sorrell: #caaf88;
+  --pewter: #99aa9c;
+  --forest: #3f664a;
+  --boulder: #797676;
+  --mineshaft: #363434;
+}
+
+html,
+body {
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--cararra);
+  font-family: "Work Sans", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Crimson Text", serif;
+}
