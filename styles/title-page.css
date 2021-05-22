@@ -1,4 +1,4 @@
-.wrapper {
+#wrapper-title {
   width: 55%;
   display: flex;
   justify-content: space-between;
@@ -6,7 +6,7 @@
 }
 
 @media only screen and (max-width: 1300px) {
-  .wrapper {
+  #wrapper-title {
     flex-direction: column;
     text-align: center;
   }
@@ -17,11 +17,6 @@
   display: flex;
   align-items: center;
   justify-content: center;
-}
-
-h1 {
-  font-size: 2rem;
-  text-shadow: 1px 1px 2px var(--boulder);
 }
 
 p {

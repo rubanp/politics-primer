@@ -1,10 +1,10 @@
 ## Contents
 
-[What is politics?](#What-Is-Politics?)<br>
-[Political Systems](#Political-System)<br>
-[Ideologies](#Ideologies)<br>
-[British Politics](#British-Politics)<br>
-[Take Action](#Take-Action)<br>
+[What is politics?](#what-is-politics?)<br>
+[Political Systems](#political-systems)<br>
+[Political Ideologies](#political-ideologies)<br>
+[British Politics](#british-politics)<br>
+[Take Action](#take-action)<br>
 
 # What Is Politics?
 
@@ -91,7 +91,7 @@ The resources available
 
 ---
 
-#Ideologies
+# Political Ideologies
 
 ---
 
