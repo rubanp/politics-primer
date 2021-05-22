@@ -1,8 +1,17 @@
 /* GLOBAL STYLES */
 
+/*temp*/
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/*-----*/
+
 :root {
   --cararra: #e8e8e1;
   --sorrell: #caaf88;
+  --domino: #7d6d55;
   --pewter: #99aa9c;
   --forest: #3f664a;
   --boulder: #797676;

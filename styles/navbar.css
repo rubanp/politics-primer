@@ -1,0 +1,173 @@
+/* ============================= */
+/* Full Nav Bar */
+/* ============================= */
+
+nav {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-icon {
+  width: 40px;
+  height: 40px;
+  padding-left: 2em;
+}
+
+nav > a {
+  margin-right: auto;
+}
+
+nav > a,
+.right {
+  flex: 1;
+  transition: 0.3s;
+}
+
+nav > a:hover {
+  opacity: 0.6;
+}
+
+nav > ul {
+  list-style-type: none;
+  width: 85%;
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+}
+
+/* ============================= */
+/* Side Nav */
+/* ============================= */
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  background-color: var(--mineshaft);
+  overflow-x: hidden;
+  transition: 0.3s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: lightgrey;
+  display: block;
+  transition: 0.3s;
+  white-space: nowrap;
+}
+
+.sidenav a:hover {
+  color: var(--boulder);
+}
+
+.sidenav .closebtn {
+  top: 5px;
+  margin-bottom: 30px;
+  font-size: 42px;
+  position: absolute;
+}
+
+a.active-sidenav {
+  color: var(--sorrell);
+}
+
+a.active-sidenav:hover {
+  color: var(--domino);
+}
+
+.burger {
+  display: none;
+  cursor: pointer;
+  font-size: 2rem;
+  padding-right: 2em;
+}
+
+.burger:hover {
+  color: var(--boulder);
+}
+
+/* ============================= */
+/* Progress Links */
+/* ============================= */
+
+nav > ul > li {
+  align-self: center;
+  flex: 1;
+  margin: 0 1em;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+  text-decoration: none;
+  display: block;
+  font-size: 1.5rem;
+  text-shadow: 1px 1px 2px var(--boulder);
+  transition: 0.3s;
+}
+
+.link:hover {
+  filter: brightness(150%);
+  text-shadow: 1px 1px 2px var(--boulder);
+}
+
+hr {
+  flex: 1;
+  border: 2px solid var(--boulder);
+  height: 1px;
+  border-radius: 5px;
+  align-self: center;
+}
+
+.completed-hr {
+  border: 2px solid var(--pewter);
+}
+
+.active {
+  color: var(--forest);
+  font-weight: bold;
+}
+
+.completed {
+  color: var(--forest);
+}
+
+/* ============================= */
+/* Mobile */
+/* ============================= */
+
+@media only screen and (max-width: 1150px) {
+  nav > ul {
+    display: none;
+  }
+
+  .right {
+    display: none;
+  }
+
+  nav {
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  nav > a {
+    align-self: flex-start;
+  }
+
+  .burger {
+    display: block;
+    align-self: flex-end;
+  }
+}

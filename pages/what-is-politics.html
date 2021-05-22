@@ -2,29 +2,52 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>What Is Politics?</title>
   <link rel="stylesheet" href="../styles/global.css">
-  <link rel="stylesheet" href="../styles/pages.css">
+  <link rel="stylesheet" href="../styles/navbar.css">
+  <script src="../scripts/sidenav.js" async></script>
 </head>
 <body>
 
   <nav>
+    <!-- MAIN NAV -->
     <a href="index.html"><img class="home-icon" src="../assets/home.png" 
       alt="Home"></a>
+
     <ul>
-      <li><a href="what-is-politics.html" class="active">What is 
-          Politics?</a></li>
-      <br>
-      <li><a href="political-systems.html">Political Systems</a></li>
-      <br>
-      <li><a href="political-ideologies.html">Political Ideologies</a></li>
-      <br>
-      <li><a href="british-politics.html">British Politics</a></li>
-      <br>
-      <li><a href="take-action.html">Take Action</a></li>
+      <li><a href="what-is-politics.html" class="active link">What 
+          is<br>Politics</a></li>
+      <hr>
+      <li><a href="political-systems.html" 
+             class="link">Political<br>Systems</a></li>
+      <hr>
+      <li><a href="political-ideologies.html" 
+             class="link">Political<br>Ideologies</a></li>
+      <hr>
+      <li><a href="british-politics.html" 
+             class="link">British<br>Politics</a></li>
+      <hr>
+      <li><a href="take-action.html" class="link">Take<br>Action</a></li>
     </ul>
+
     <div class="right"></div>
+
+    <!-- SIDE NAV -->
+    <div class="burger" onclick="openNav()">&#9776;</div>
+      <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="index.html">Home</a>
+        <a href="what-is-politics.html" class="active-sidenav">What Is 
+          Politics</a>
+        <a href="political-systems.html">Political Systems</a>
+        <a href="political-ideologies.html">Political Ideologies</a>
+        <a href="british-politics.html">British Politics</a>
+        <a href="take-action.html">Take Action</a>
+      </div>
+
   </nav>
+
 
   <div class="wrapper">
 

@@ -2,9 +2,54 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Political Ideologies</title>
+  <link rel="stylesheet" href="../styles/global.css">
+  <link rel="stylesheet" href="../styles/navbar.css">
+  <script src="../scripts/sidenav.js"></script>
 </head>
 <body>
-  <h1>Political Ideologies</h1>
+
+  <nav>
+    <a href="index.html"><img class="home-icon" src="../assets/home.png" 
+      alt="Home"></a>
+    <ul>
+      <li><a href="what-is-politics.html" class="completed link">What 
+          is<br>Politics</a></li>
+      <hr class="completed-hr">
+      <li><a href="political-systems.html" class="completed link">Political<br>Systems</a></li>
+      <hr class="completed-hr">
+      <li><a href="political-ideologies.html" class="active 
+                                              link">Political<br>Ideologies</a></li>
+      <hr>
+      <li><a href="british-politics.html" 
+             class="link">British<br>Politics</a></li>
+      <hr>
+      <li><a href="take-action.html" class="link">Take<br>Action</a></li>
+    </ul>
+
+    <div class="right"></div>
+
+    <!-- SIDE NAV -->
+
+    <div class="burger" onclick="openNav()">&#9776;</div>
+      <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="index.html">Home</a>
+        <a href="what-is-politics.html">What Is Politics</a>
+        <a href="political-systems.html">Political Systems</a>
+        <a href="political-ideologies.html" class="active-sidenav">Political 
+          Ideologies</a>
+        <a href="british-politics.html">British Politics</a>
+        <a href="take-action.html">Take Action</a>
+      </div>
+
+  </nav>
+
+  <div class="wrapper">
+
+    <h1>Political Ideologies</h1>
+
+  </div>
 </body>
 </html>
