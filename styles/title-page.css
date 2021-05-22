@@ -44,7 +44,6 @@ button:hover {
   background-color: var(--forest);
   color: var(--cararra);
   cursor: pointer;
-  box-shadow: none;
   border-radius: 10px;
 }
 

@@ -19,8 +19,6 @@ to pay too much attention to.
 However the core of politics is very simple, and applies to a much broader
 ranger of things
 
----
-
 Politics is about making decisions
 
 Politics is about making decisions that are fair and just.
