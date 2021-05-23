@@ -1,3 +1,7 @@
+body {
+  justify-content: center;
+}
+
 #wrapper-title {
   width: 55%;
   display: flex;
