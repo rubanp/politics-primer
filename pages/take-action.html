@@ -1,41 +1,66 @@
 <!DOCTYPE html>
+
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Take Action</title>
   <link rel="stylesheet" href="../styles/global.css">
   <link rel="stylesheet" href="../styles/navbar.css">
-  <script src="../scripts/sidenav.js"></script>
+  <script src="../scripts/sidenav.js" async></script>
+  <script src="../scripts/progress-bar.js" async></script>
 </head>
+
 <body>
 
-
   <nav>
-    <a href="index.html"><img class="home-icon" src="../assets/home.png" 
-      alt="Home"></a>
-    <ul>
-      <li><a href="what-is-politics.html" class="completed link">What 
-          is<br>Politics</a></li>
-      <hr class="completed-hr">
-      <li><a href="political-systems.html" class="completed link">Political<br>Systems</a></li>
-      <hr class="completed-hr">
-      <li><a href="political-ideologies.html" class="completed link">Political<br>Ideologies</a></li>
-      <hr class="completed-hr">
-      <li><a href="british-politics.html" class="completed link">British<br>Politics</a></li>
-      <hr class="completed-hr">
-      <li><a href="take-action.html" class="active 
-          link">Take<br>Action</a></li>
-    </ul>
 
+    <!-- MAIN NAV -->
+
+    <div class="icon">
+      <a href="index.html">
+        <img src="../assets/home.png" alt="Home">
+      </a>
+    </div>
+
+    <ul>
+      <li>
+        <a href="what-is-politics.html" class="completed link">
+          What is<br>Politics
+        </a>
+      </li>
+      <hr class="completed-hr">
+      <li>
+        <a href="political-systems.html" class="completed link">
+          Political<br>Systems
+        </a>
+      </li>
+      <hr class="completed-hr">
+      <li>
+        <a href="political-ideologies.html" class="completed link">
+          Political<br>Ideologies
+        </a>
+      </li>
+      <hr class="completed-hr">
+      <li>
+        <a href="british-politics.html" class="completed link">
+          British<br>Politics
+        </a>
+      </li>
+      <hr class="completed-hr">
+      <li>
+        <a href="take-action.html" class="active link">
+          Take<br>Action
+        </a>
+      </li>
+    </ul>
     <div class="right"></div>
 
     <!-- SIDE NAV -->
-
     <div class="burger" onclick="openNav()">&#9776;</div>
       <div id="mySidenav" class="sidenav">
         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-        <a href="index.html">Home</a>
         <a href="what-is-politics.html">What Is Politics</a>
         <a href="political-systems.html">Political Systems</a>
         <a href="political-ideologies.html">Political Ideologies</a>
@@ -43,12 +68,137 @@
         <a href="take-action.html" class="active-sidenav">Take Action</a>
     </div>
 
+    <!--Progress Bar-->
+
   </nav>
+
+  <div class="progress-container">
+    <div class="progress-bar" id="myBar"></div>
+  </div>
 
   <div class="wrapper">
 
-    <h1>Take Action</h1>
+    <h1 style="text-align: center">Take Action</h1>
 
+    <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
+    veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
+    commodo consequat. Duis aute irure dolor in reprehenderit in voluptate 
+    velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat 
+    cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id 
+    est laborum
+    </p>
+    <p>
+    Sed ut pespiciatis unde omnis iste natus error sit voluptatem accusantium 
+    doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore 
+    veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim 
+    ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia 
+    consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque 
+    porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, 
+    adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore 
+    et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis 
+    nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
+    ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea 
+    voluptate velit esse quam nihil molestiae consequatur, vel illum qui 
+    dolorem eum fugiat quo voluptas nulla pariatur?
+    </p>
+    <p>
+    At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis 
+    praesentium voluptatum deleniti atque corrupti quos dolores et quas 
+    molestias excepturi sint occaecati cupiditate non provident, similique sunt 
+    in culpa qui officia deserunt mollitia animi, id est laborum et dolorum 
+    fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero 
+    tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus 
+    id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis 
+    dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut 
+    rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et 
+    molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente 
+    delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut 
+    perferendis doloribus asperiores repellat.
+    </p>
+    <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
+    veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
+    commodo consequat. Duis aute irure dolor in reprehenderit in voluptate 
+    velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat 
+    cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id 
+    est laborum
+    </p>
+    <p>
+    Sed ut pespiciatis unde omnis iste natus error sit voluptatem accusantium 
+    doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore 
+    veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim 
+    ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia 
+    consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque 
+    porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, 
+    adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore 
+    et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis 
+    nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
+    ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea 
+    voluptate velit esse quam nihil molestiae consequatur, vel illum qui 
+    dolorem eum fugiat quo voluptas nulla pariatur?
+    </p>
+    <p>
+    At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis 
+    praesentium voluptatum deleniti atque corrupti quos dolores et quas 
+    molestias excepturi sint occaecati cupiditate non provident, similique sunt 
+    in culpa qui officia deserunt mollitia animi, id est laborum et dolorum 
+    fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero 
+    tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus 
+    id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis 
+    dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut 
+    rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et 
+    molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente 
+    delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut 
+    perferendis doloribus asperiores repellat.
+    </p>
+    <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
+    veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
+    commodo consequat. Duis aute irure dolor in reprehenderit in voluptate 
+    velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat 
+    cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id 
+    est laborum
+    </p>
+    <p>
+    Sed ut pespiciatis unde omnis iste natus error sit voluptatem accusantium 
+    doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore 
+    veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim 
+    ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia 
+    consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque 
+    porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, 
+    adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore 
+    et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis 
+    nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
+    ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea 
+    voluptate velit esse quam nihil molestiae consequatur, vel illum qui 
+    dolorem eum fugiat quo voluptas nulla pariatur?
+    </p>
+    <p>
+    At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis 
+    praesentium voluptatum deleniti atque corrupti quos dolores et quas 
+    molestias excepturi sint occaecati cupiditate non provident, similique sunt 
+    in culpa qui officia deserunt mollitia animi, id est laborum et dolorum 
+    fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero 
+    tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus 
+    id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis 
+    dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut 
+    rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et 
+    molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente 
+    delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut 
+    perferendis doloribus asperiores repellat.
+    </p>
   </div>
+
+  <footer>
+    <p><a href="about.html" target="_blank">About</a></p>
+    <p>
+      Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>
+    </p>
+  </footer>
+
 </body>
 </html>
