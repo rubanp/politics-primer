@@ -47,8 +47,9 @@ underlying principles.
 
 _Note: The words 'state', 'country' and 'nation' are often used interchangeably
 in political writing. This can be confusing as some large countries also have
-'states' as one of their components, for example USA and Australia. Throughout
-this course, we'll be sticking to using 'country'_
+'states' as one of their components, for example USA and Australia. We'll be
+using the term state, as it's used more often to mean a single political unit,
+while a country technically refers to the geographical area._
 
 ## Making Decisions
 
@@ -192,7 +193,9 @@ just.
 
 ---
 
-# Political Systems
+# Systems and Ideologies
+
+## Systems
 
 You may have heard of political terms like democracy, communism, dictatorships,
 left wing and right wing.
@@ -215,113 +218,228 @@ understand the basic principles underlying them.
 - The power spectrum which shows the degree to which decisions are made by
   individuals or by a central authourity
 
-  _ Note: Typically in media and discussion, these two spectrums are combined
-  and simplified further into just left or right wing, but this can be
-  misleading as people may have different stances on different issues, so it's
-  always best to do your own research on that particular issue to find out what  
-  politicians or the media mean when they generalise say they take a 'left
-  wing' or 'right wing' viewpoint_
+_ Note: Typically in media and discussion, these two spectrums are combined
+and simplified further into just left or right wing, but this can be
+misleading as people may have different stances on different issues, so it's
+always best to do your own research on that particular issue to find out what  
+politicians or the media mean when they generalise say they take a 'left
+wing' or 'right wing' viewpoint_
 
 It's important to know that the systems on both spectrum each have their own
 pros and cons, and a community can theoretically prosper with any system. Over
 thousands of years however humans have to come to find that certain positions
-on the spectrum, or certain political systems are much **_more likely_** to
+on the spectrum, or certain political systems are **_more likely_** to
 lead to a propering and fair society.
 
 ### The power spectrum
 
 Before looking at some of the political systems at various on the spectrum,
 let's look at some examples of decisions that we can make (or the government
-may make for us), and think about when reading about the political systems.
+may make for us).
 
 - The speed limit to drive at
 - Buying different mind-altering substances
 - Who to marry
-- Owning weapons
+- Owning and using weapons
 - Where to get an education
 - Religious beliefs
+- Where to live
+- How much basic necessities should cost
+- What to say, and to who
+- Who should make decisions for me and which ones
 
 In an anarchy, any cooperation between individuals is done on a voluntary
 basis. There is no central authority telling individuals what to do. This
-system can be seen into exist in nature, and humans too existed in this format
-during prehistoric times as tribal hunter-gatherers. Though it is very possible
-for an anarchy to be harmonious, it is highly dependent on the voluntary
-co-operation of individuals. It is possible for hierarchies to emerge as those
-who are lucky enough to be physically stronger or have access to more natural
-resources around them, exert their influence onto others. Proponents of anarchy
-believe that humans are naturally cooperative and don't need a central
-authority to tell them what to do, while others would argue that history has
-demonstrated otherwise and that some people will gladly oppress others for
-their own benefit.
+system can be seen to exist in nature, and humans too lived in this format
+during prehistoric times for thousands of years as tribal hunter-gatherers.
+Though it is very possible for an anarchy to be harmonious, it is highly
+dependent on the voluntary co-operation of individuals. It is likely for
+hierarchies to emerge as those who are lucky enough to be physically stronger
+or have access to more natural resources around them, exert their influence
+onto others. Proponents of anarchy believe that humans are naturally
+cooperative and don't need a central authority to tell them what to do, while
+others would argue that history has demonstrated otherwise and that some people
+will gladly oppress others for their own benefit.
 
-Autocracies and oligarchies are fairly similar. An autocracy is rule by one
+The terms autocracies and oligarchies are often used interchangeably and they
+are very similar to each other. Technically an autocracy is rule by one
 individual, while an oligarchy is rule by a few inviduals. These systems can be
-further divided based on how these individuals came to power:
+further divided based on how these individuals or small groups came to power:
 
 - Monarchy - The classic kings and queens, where power is passed onto family
-  members. The United Kingdom is what is known as a constitutional monarchy,
-  where the leaders are elected and the royal family has little real power.
+  members. With the development of agriculture, small hunter-gatherer
+  communities started settling down in one place and populations grew. The
+  family became the smallest group unit and the leaders would attempt to
+  maintain power within their families. Some of the oldest recorded monarchies
+  were the Pharaohs of Ancient Egypt around 3000 BCE, and even up until 200
+  years ago, most countries were monarchies or some other form of autocracy.  
+  The United Kingdom is what is known as a constitutional monarchy, where the
+  leaders are elected and the royal family has little real power. The largest
+  modern monarchy is Saudi Arabia, whose de facto ruler is the King's son,
+  Crown Prince Mohammed bin Salman.
 
 - Plutocracy - A society that is ruled by the wealthiest individuals. Some
-  would argue that some modern democracies are plutocracies in disguise, as it
+  would argue that some modern wealthy democracies are part plutocracies, as it
   is only the extremely wealthy who have the means and opportunities to go into
   politics as a career, and they in turn create policies that serve the wealth.  
   As an example, in the U.K as of 2019, 29% of Members of Parliament went to
   private school, compared to 7% of the general population.
 
-- Aristocracy - This literally means 'rule by the best'. Though a vague
-  definition in itself, that could also apply to democracies, it
-  generally means a _self-appointing_ group of people who deem themselves to be
-  the best rulers. In Ancient Greece it was contrasted favourably with
-  monarchy, and they believed, that if it was corrupted, it would be easier to
-  correct than a corrupt democracy which could descend into mob rule.
+- Aristocracy - From Greek, this literally means 'rule by the best'. Though
+  today it is a vague term with both positive and negative connotations. It's
+  come to be used as a general term for the wealthiest, most powerful people in
+  society. In Ancient Greece it was contrasted favourably with monarchy, and
+  they believed, that if it was corrupted, where there is rule by the few but
+  not by the best, it would be easier to correct than a corrupt democracy which
+  could descend into mob rule.
 
 A dictatorship can be thought of as an autocracy or oligarchy, but with the
-emphasis that they have complete control over how the country is run. A
-dictatorship can manifest through the above systems, but it can also arise as
-the below systems.
+emphasis that the have **_complete control_** over how the country is run. A
+dictatorship can manifest through the above systems, but it can also arise from
+the following:
 
-- Military dictatorship
-- Single party dictatorship
-- Personalist dictatorship
+- Military dictatorship / Stratocracy - Rule by a military institution, such as
+  Myanmar, following the coup in February 2021, where the military deposed the
+  current democratically elected members of the country.
+
+- Single party dictatorship - Rule by a single party holding a unified
+  ideology, such as China ruled by the Chinese Communist Party (CCP), led by Xi
+  Jinpig
+
+- Personalist dictatorship - Rule by a single individual. Though North Korea is
+  technically a single party state, ruled by the Workers' Party of Korea (WPK),
+  it's leader Kim Jong-un holds such immense power that many would classify it
+  as a peronalist dictatorship. Since leadership also passes down the Kim
+  family, North Korea could also be described as an absolute monarchy or a
+  'hereditary dictatorship'. Saudi Arabia mentioned above could also be
+  considered a 'herditary dictatorship'.
+
+Democracy, from Greek, means 'rule by the people', and is widely considered to
+the fairest political system. The first recorded democracy was the city-state
+of Athens around 500 BCE, where citizens where randomly selected to fill
+government positions, and all citizens could speak and vote to make decisions
+in public gatherings. Though the term citizen then was closely tied to those
+who were obligated to fight in war, and therefore excluded women, slaves and
+foreigners. This form of democracy where everyone participates in all
+decisions is called a **_direct democracy_** and is only really possible in
+small communities. The prominent political system today is the representative
+democracy, where people vote to choose the people who they feel most accurately
+represent their own views, to make decisions in government. These people are
+often associated with a 'party', which is just a group of people who hold
+similar views. Not everyone in a democracy had their voice heard straightaway.  
+Initially the government of the United Kingdom was only elected by male
+property owners, which was just 3% of the population in 1780. **_Suffrage_**
+means the right to vote in political elections, and the degree of universal
+suffrage (the right to vote without resriction due to gender, race, social
+status, education or wealth) is strongly correlated with the degree of
+democracy in a country. The journey to universal suffrage in every democracy
+has been a fiercel contested struggle with numerous revolutions, protests and
+violence. In 1893, New Zealand was the only country in the world with universal
+suffrage, while now 75 countries are considered to be democracies, with most
+having universal suffrage. Though a country may have elections to assign
+leaders, it's level of democracy, that is it's level of 'rule by the people'
+can differ greatly. For example fewer significant parties, suppression of
+opposing parties, low levels of participation and corruption of government
+officials all decrease the level of democracy of country. The Economist
+Intelligence Groups [Democracy Index](https://en.wikipedia.org/wiki/Democracy_Index) is a way to objectively
+measure the level of democracy.
+
+It's important to note here that the names of parties and even of countries do
+not necessarily reflect on their political stance. For example the
+
+`Maps of all these places`
+`Democracy Index`
 
 ### The economic spectrum
 
-The economic system of a country is fairly dependent on the systems of power,
-and it also more fluid. Therefore in the diagram below there won't be any
-specific
+The economic system of a country can be much more fluid than it's systems of
+power, so rather than look at individual countries or individual systems, let's
+look at the ideologies on either end of the scale and some examples of policies
+utilising these ideologies.
+
+Socialism is the ideology that there should be social ownership of property. As
+we saw in the first section, there can be many different kinds of 'property'.  
+In democracies, one way in which socialism takes places in the form of income
+redistribution to fund public services. Wealthier individuals pay a greater
+proportion of their income than people who aren't as well as off, in the form
+of taxes. These taxes then go on to fund public services that everyone has
+access to, such as transport, healthcare and education. One reasoning behind
+this is not everyone is born with the same privileges and opportunities, and
+therefore redistribution is required so these people aren't deprived of their
+basic rights and freedoms. Meanwhile capitalism argues that this redistribution
+of income violates the most important right of all, that of freedom or liberty,
+and that the world is primarily meritocratic, that is privilege and power is
+gained by those on the basis of talent and effort. However socialists might
+argue that capitalism unfairly awards demand for the product rather than it's
+social value, for example that it is unfair that celebrities and athletes
+receive disproportionately high incomes, compared to say doctors or
+firefighters.
+
+An important type of property that is at the centre of the socialism vs
+capitalism debate is the 'means of production'. This includes raw materials,
+factories and infrastructure. Proponents of capitalism argue that private
+ownership of the means of productions, creates innovation and economic growth,
+as different groups of people compete to create better products or provide
+better services utilising the means of production. A socialist criticism to
+this would be that this system prioritises profit over social good and it
+creates a small capitalist class who then exploit the working class whose main
+property ownership is their own capacity to labour.
+
+Communism can be thought of as a highly authoritarian form of socialism. This
+means that for example, rather than redistribution of income, there is complete
+equality of income with all wages set by the government, nearly all housing is
+public and appointed by the government and the state controls all major
+industries.
+
+Socialist and capitalist policies can exist anywhere on the power spectrum,
+making it possible to create a four axis graph, which gives a general idea as
+to a policy's, person's, party's or country's political stance
+
+`political-compass-simple`
+
+_Note: In a democracy, that there can be parties
+holding very different views, which is known as pluralism and is an important
+part of democracy. The above position in the graph of a democracy is just a
+general approximation of the result of these balanced viewpoints, and in
+reality full democracies exist all around this general position_
+
+## Ideologies
+
+Political Ideologies can be
+
+- general views on how society should be organised,
+- patterns of behaviour that people or groups exhibit, or methods that are used
+  to achieve the above organisation
+- specific stances on issues
+
+  The systems we have just discussed can also be thought of as ideologies.  
+  Let's look at some more:
+
+Feminism - Focusing on creating equality between genders; for example in
+suffrage, pay and education. Also improving reproductive rights and increasing
+legal protection from domestic violence and sexual harassment.
+
+Nationalism - Promoting the interests and independence of the home nation
+
+Fascism - Dictatorships with an an extreme form of nationalism, characterized
+by strict social heirarchies and use of force to suppress opposition. It's used
+interchangeably with Nazism.
+
+Imperialism - The policy of extending a country's power beyond it's own border,
+which can be done through colonization, military force or creating debt.
+
+Environmentalism - Focus on more policies being required to preserve, restore
+and improve the environment.
+
+Conservatism - While the actual principles may vary depending on the country,
+the general belief is that tradition values and culture must be respected and
+social change must be slow and incremental
 
 ---
 
 ---
 
-# Political Ideologies
-
-Political Ideologies can be general views on how society should be organised,
-patterns of behaviour that countries exhibit or they can be more specific
-stances on issues.
-
-Liberalism
-
-Feminism
-
-Socialism
-
-Capitalism
-
-Communism
-
-Fascism
-
-Imperialism
-
----
-
----
-
-# British Politics
-
-common law
+# Government & British Politics
 
 ---
 
