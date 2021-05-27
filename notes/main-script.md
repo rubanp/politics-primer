@@ -1,8 +1,7 @@
 ## Contents
 
 [What is politics?](#what-is-politics?)<br>
-[Political Systems](#political-systems)<br>
-[Political Ideologies](#political-ideologies)<br>
+[Systems and Ideologies](#systems-and-ideologies)<br>
 [British Politics](#british-politics)<br>
 [Take Action](#take-action)<br>
 [About](#about)<br>
@@ -237,16 +236,15 @@ Before looking at some of the political systems at various on the spectrum,
 let's look at some examples of decisions that we can make (or the government
 may make for us).
 
-- The speed limit to drive at
-- Buying different mind-altering substances
+- What speed limit to drive at
 - Who to marry
-- Owning and using weapons
+- What potential weapons to own
 - Where to get an education
-- Religious beliefs
+- What religious beliefs to have
 - Where to live
-- How much basic necessities should cost
-- What to say, and to who
-- Who should make decisions for me and which ones
+- What book to read or movie to watch
+- Whether to use mind-altering substances
+- What to say and to who
 
 In an anarchy, any cooperation between individuals is done on a voluntary
 basis. There is no central authority telling individuals what to do. This
@@ -336,16 +334,19 @@ democracy in a country. The journey to universal suffrage in every democracy
 has been a fiercel contested struggle with numerous revolutions, protests and
 violence. In 1893, New Zealand was the only country in the world with universal
 suffrage, while now 75 countries are considered to be democracies, with most
-having universal suffrage. Though a country may have elections to assign
-leaders, it's level of democracy, that is it's level of 'rule by the people'
-can differ greatly. For example fewer significant parties, suppression of
-opposing parties, low levels of participation and corruption of government
-officials all decrease the level of democracy of country. The Economist
-Intelligence Groups [Democracy Index](https://en.wikipedia.org/wiki/Democracy_Index) is a way to objectively
+having universal suffrage. Though a country may technically be a democracy,
+that is it has elections to assign leaders, it's level of democracy, that is
+it's level of 'rule by the people' can differ greatly. For example, fewer
+significant parties, suppression of opposing parties, low levels of
+participation and corruption of government officials all decrease the level of
+democracy of country. The Economist Intelligence Groups [Democracy
+Index](https://en.wikipedia.org/wiki/Democracy_Index) is a way to objectively
 measure the level of democracy.
 
 It's important to note here that the names of parties and even of countries do
-not necessarily reflect on their political stance. For example the
+not necessarily reflect on their political stance. For example, North Korea's
+offician name is the 'Democratic People's Republic of Korea', while it ranks
+last in the above democracy index.
 
 `Maps of all these places`
 `Democracy Index`
@@ -359,37 +360,45 @@ utilising these ideologies.
 
 Socialism is the ideology that there should be social ownership of property. As
 we saw in the first section, there can be many different kinds of 'property'.  
-In democracies, one way in which socialism takes places in the form of income
-redistribution to fund public services. Wealthier individuals pay a greater
-proportion of their income than people who aren't as well as off, in the form
-of taxes. These taxes then go on to fund public services that everyone has
-access to, such as transport, healthcare and education. One reasoning behind
-this is not everyone is born with the same privileges and opportunities, and
-therefore redistribution is required so these people aren't deprived of their
-basic rights and freedoms. Meanwhile capitalism argues that this redistribution
-of income violates the most important right of all, that of freedom or liberty,
-and that the world is primarily meritocratic, that is privilege and power is
-gained by those on the basis of talent and effort. However socialists might
-argue that capitalism unfairly awards demand for the product rather than it's
-social value, for example that it is unfair that celebrities and athletes
-receive disproportionately high incomes, compared to say doctors or
-firefighters.
+In democracies, one way in which socialism takes places is in the form of
+income redistribution to fund public services. Wealthier individuals pay a
+greater proportion of their income than people who aren't as well as off, in
+the form of taxes. These taxes then go on to fund public services that everyone
+has access to, such as transport, healthcare and education. One reasoning
+behind this is not everyone is born with the same privileges and opportunities,
+and therefore redistribution is required so no-one deprived of what is
+considered to be their basic rights and freedoms. Meanwhile capitalism argues
+that this redistribution of income violates the most important right of all,
+that of personal freedom or liberty, and that the world is primarily
+meritocratic, which means that privilege and power is gained by those on the
+basis of talent and effort, therefore it's fair.
 
 An important type of property that is at the centre of the socialism vs
-capitalism debate is the 'means of production'. This includes raw materials,
-factories and infrastructure. Proponents of capitalism argue that private
-ownership of the means of productions, creates innovation and economic growth,
-as different groups of people compete to create better products or provide
-better services utilising the means of production. A socialist criticism to
-this would be that this system prioritises profit over social good and it
-creates a small capitalist class who then exploit the working class whose main
-property ownership is their own capacity to labour.
+capitalism debate, is the 'means of production'. This includes raw materials,
+factories and infrastructure, throught products can be made and services can be
+provided. Proponents of capitalism argue that private ownership of the means of
+productions, creates innovation and economic growth, as different groups of
+people compete to create better products or provide better services utilising
+the means of production. This resulting improvement in the economy then
+benefits the whole population. A socialist criticism to this would be that this
+system prioritises profit over social good, and that demand for a product is
+not reflective of it's social value. They would say that it's unfair that
+celebrities and athletes receive disproportionately high incomes, compared to
+say doctors or firefighters.
 
-Communism can be thought of as a highly authoritarian form of socialism. This
-means that for example, rather than redistribution of income, there is complete
-equality of income with all wages set by the government, nearly all housing is
-public and appointed by the government and the state controls all major
-industries.
+Socialists might also argue that excessive private ownership creates a small
+capitalist class, who owns the means of production and who can then easily
+exploit the working class whose only real 'property ownership' is their own
+capacity to labour. Capitalists would say that a class system is inevitable as
+different people desire different things and you shouldn't infringe on an
+individuals freedom to purchase, own or exchange property.
+
+\_Note: Economic systems and power structures have existed for a long time, but
+human rights as the freedoms that no policy can infringe has only started to
+develop and expand relatively recently in human history. For example, up until
+the early 1800s, slavery was common throughout the world, i.e., the ownership
+of people themselves as property, who are then employed in forced labour and
+forbidden to quit.
 
 Socialist and capitalist policies can exist anywhere on the power spectrum,
 making it possible to create a four axis graph, which gives a general idea as
@@ -397,11 +406,10 @@ to a policy's, person's, party's or country's political stance
 
 `political-compass-simple`
 
-_Note: In a democracy, that there can be parties
-holding very different views, which is known as pluralism and is an important
-part of democracy. The above position in the graph of a democracy is just a
-general approximation of the result of these balanced viewpoints, and in
-reality full democracies exist all around this general position_
+\_Note: In a democracy, that there can be parties holding very different views,
+which is known as pluralism and is an important part of democracy. The above
+position in the graph of a democracy is primarily in comparison to the other
+political systems on the graph.
 
 ## Ideologies
 
@@ -412,8 +420,14 @@ Political Ideologies can be
   to achieve the above organisation
 - specific stances on issues
 
-  The systems we have just discussed can also be thought of as ideologies.  
-  Let's look at some more:
+The systems we have just discussed can also be thought of as ideologies. Let's
+look at some more common ones:
+
+Communism - A highly authoritarian form of socialism. This means that for
+example, rather than just redistribution of income, all property is either
+owned communaly or owned by the state, most wages are set by the state and
+strictly controlled. It is also often accompanied by reduced freedom of
+expression and suppression of views contradictory to the ruling group.
 
 Feminism - Focusing on creating equality between genders; for example in
 suffrage, pay and education. Also improving reproductive rights and increasing
@@ -426,7 +440,7 @@ by strict social heirarchies and use of force to suppress opposition. It's used
 interchangeably with Nazism.
 
 Imperialism - The policy of extending a country's power beyond it's own border,
-which can be done through colonization, military force or creating debt.
+which can be done through colonization, using military force or creating debt
 
 Environmentalism - Focus on more policies being required to preserve, restore
 and improve the environment.
@@ -439,13 +453,71 @@ social change must be slow and incremental
 
 ---
 
-# Government & British Politics
+# Government
+
+In this section we'll be looking at how the leadership (the government) is
+setup and organised in a fair democracy. The government is not a single unit,
+but rather consists of three parts, with no person being allowed to exist in
+more than one part.
+
+- Legislative- the part that makes laws
+- Executive - the part that carries out (executes) the laws, and
+- Judiciary - the courts that decide if the law has been broken
+
+This concept is called **_separation of powers_**. This exists to ensure that
+for example, that people cannot create laws (as part of the legislative) that
+they can execute (as part of the executive) to help just themselves or give
+themselves more power, or ignore laws they've broken (as part of the
+judiciary).
+
+Another concept is **_devolution_**, which is transfer of power from the
+central government to local government. When this transfer of power is
+permanent, protected and extensive, it is known as **_federalism_** and
+countries operating like this are know as federal states, such as the United
+States of America and Australia, where policies between states can be
+significantly different. The United Kingdom on the other hand is **_unitary
+state_** meaning the majority of power rests with the central government.
+
+The legislative branch of the government can be unicameral, or containing one
+house, or bicameral, or containing two houses. Most governments have a
+bicameral system to avoid having power concentrated in one group. The United
+Kingdom legislative branch is called the Parliament and has the House of
+Commons and the House of Lords. The United States legislative branch is called
+the Congress and consists of the House of Representatives and the Senate.
+
+The bicameral systems typically have a 'lower house' (House of Commons, House
+of Representatives) which consists of members directly elected by the general
+population, and an 'upper house'(House of Lords, Senate) consisting of members
+who are appointed in some manner.
+
+You may come across the terms 'head of state' and 'head of government'. These
+terms exists because historically the head of the state was the king and as
+countries evolved to incorporate democracy and have elected government, there
+was also the head of the government. In countries that evolved this way, the
+head of state role is now largely ceremonial.
+
+There are two primary ways that the executive branch is set up, the
+parliamentary system and presidential system.
+In a parliamentary system, the executive branch often derives from the
+legislature. In the United Kingdom, it is called the Cabinet and is headed by
+the Prime Minister, who is also the leader of the party that won a majority in
+the general election, and therefore has the most seats in the lower house, the
+House of Commons.
+Parliamentary systems often also have a different of 'head of state' as
+mentioned previously. The U.K's head of state is Queen Elizabeth II.
+In a presidential system, there is stricter separation between the executive
+and the legislature, and the President is the head of the executive. The
+President may be elected in the general election by the citizens as is the case
+in the United States, with the head of the lower house, the House of
+Representatives being the elected and called the speaker. The President may
+also be appointed by the elected members of legislature, as is the case in
+India, with the head of the lower house being the Prime Minister.
 
 ---
 
 ---
 
-# Take Action
+# Voting
 
 ---
 
