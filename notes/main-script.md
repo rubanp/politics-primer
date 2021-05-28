@@ -491,9 +491,9 @@ Representatives and the Senate. The Indian legislative branch is also called
 the Parliament, and consists of the Lok Sabha and Rajya Sabha.
 
 The bicameral systems typically have a 'lower house' (House of Commons, House
-of Representatives, Lok Sabha) which consists of members directly elected by
-the general population, and an 'upper house'(House of Lords, Senate, Rajya
-Sabha) consisting of members who are separately appointed in some manner.
+of Representatives) which consists of members directly elected by
+the general population, and an 'upper house' (House of Lords, Senate)
+consisting of members who are separately appointed in some manner.
 
 Members who are elected to the lower house are often part of groups called
 'parties', these are groups of people who hold similar political ideologies.  
@@ -554,14 +554,6 @@ Minority Whip. The main leader of the Congress, elected by members from all
 parties is the Speaker of the House, who is elected by the House of
 Representatives.
 
-India is unique in that although it follows a parliamentary system, with the
-head of government (of executive and legislature), the Prime Minister, being
-the person with the most power, there is also a President. This is largely a
-ceremonial role, and it was created to replace the head of state role held by
-King George VI when India gained independence from the British Empire. The
-executive is called the Union Council of Ministers and is chosen by the Prime
-Minister
-
 ---
 
 ---
@@ -570,24 +562,49 @@ Minister
 
 Voting is the way through which everyone in a democracy can participate in the
 political process. It's important to vote even if you feel the party you would
-like to win, stands little change of winning in your region. This is because it
+like to win stands little change of winning in your region. This is because it
 shows support for the policies that party is advocating for, and makes it more
 likely that the winning party will pay attention to them. Even if you don't
 want to vote, because for example you highly disagree with all parties or feel
 disillusioned with the political process and you feel you aren't truly being
-heard, you can make this known by 'spoiling the ballot'. You do this by
-submitting a ballot that is ineligible, like the example below. These are
-recorded and counted, they just won't be a vote towards any party.
+heard, you can make this known to the government by 'spoiling the ballot'. You
+do this by submitting a ballot that is ineligible, like the example below.
+These are recorded and counted. They won't be a vote towards any party, and
+instead can reflect on the number of dissatisfied voters.
 
-Before voting it's important to first understand what your views and what
+Before voting it's important to first understand what your views are and what
 changes you would like to be made in society. Hopefully this resource you have
 just gone through has contributed to that. Some more resources include:
 
-` `
-``
+`Political Compass` - A quiz to give a general idea of your political stance.  
+Though it's result can be controversial depending on who is asked, the
+questions it uses are thought provoking and worthy of discussion. The site also
+features a section where they analyise the viewpoints of different parties in
+elections, in the major democracies around the world.
+`Kiddle` - Explains political concepts in simple, easy to understand language
 
-Secondly you find the party that most fits your views, which is done by reading
-the parties manifesto
+Don't forget that you should remain open to your views changing, and open to
+difficult conversation on controversial political issues. Debate is the primary
+means by which politicians come to a consensus on a decision, and this should
+be reflected by the citizens
+
+Secondly you need to find the party that most fits your views and the changes
+you want to see made. This best done by reading each party's manifesto, which
+they publish before each election. You may choose a party because overall they
+reflect your views, or they may be a few key issues that sway your decision.
+
+Often in the weeks to months before a general election, there will be increased
+discussion both in person and on social media and you may come across
+propoganda, which is political information, often of a misleading nature,
+designed to promote a particular point of view. It can be useful to check these
+claims on fact checking websites such as `Full Fact` `The Conversation's Fact Check`
+
+Other than voting, an easy way to get involved is via petitions, via
+`petition.parliament.uk` and `change.org`.
+
+You can also join pressure groups to raise awareness on particular issues. A
+list of United Kingdom pressure groups can be found here
+'https://en.wikipedia.org/wiki/List_of_pressure_groups_in_the_United_Kingdom'
 
 ---
 

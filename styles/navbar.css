@@ -48,14 +48,6 @@ nav > ul {
   text-align: center;
 }
 
-.large {
-  flex-grow: 1.5;
-}
-
-.small {
-  flex-grow: 0.75;
-}
-
 /* ============================= */
 /* Progress Bar */
 /* ============================= */
@@ -155,7 +147,7 @@ nav > ul > li {
 }
 
 hr {
-  flex: 1;
+  flex: 0.3;
   border: 2px solid var(--boulder);
   height: 1px;
   border-radius: 5px;
