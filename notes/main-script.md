@@ -2,8 +2,8 @@
 
 [What is politics?](#what-is-politics?)<br>
 [Systems and Ideologies](#systems-and-ideologies)<br>
-[British Politics](#british-politics)<br>
-[Take Action](#take-action)<br>
+[Government](#british-politics)<br>
+[Voting](#take-action)<br>
 [About](#about)<br>
 
 # What Is Politics?
@@ -393,12 +393,12 @@ capacity to labour. Capitalists would say that a class system is inevitable as
 different people desire different things and you shouldn't infringe on an
 individuals freedom to purchase, own or exchange property.
 
-\_Note: Economic systems and power structures have existed for a long time, but
+_Note: Economic systems and power structures have existed for a long time, but
 human rights as the freedoms that no policy can infringe has only started to
 develop and expand relatively recently in human history. For example, up until
 the early 1800s, slavery was common throughout the world, i.e., the ownership
 of people themselves as property, who are then employed in forced labour and
-forbidden to quit.
+forbidden to quit._
 
 Socialist and capitalist policies can exist anywhere on the power spectrum,
 making it possible to create a four axis graph, which gives a general idea as
@@ -406,10 +406,10 @@ to a policy's, person's, party's or country's political stance
 
 `political-compass-simple`
 
-\_Note: In a democracy, that there can be parties holding very different views,
+_Note: In a democracy, that there can be parties holding very different views,
 which is known as pluralism and is an important part of democracy. The above
 position in the graph of a democracy is primarily in comparison to the other
-political systems on the graph.
+political systems on the graph._
 
 ## Ideologies
 
@@ -457,18 +457,19 @@ social change must be slow and incremental
 
 In this section we'll be looking at how the leadership (the government) is
 setup and organised in a fair democracy. The government is not a single unit,
-but rather consists of three parts, with no person being allowed to exist in
-more than one part.
+but rather consists of three parts, with no person technically being allowed to
+belong to more than one part, though there is often minor overlap.
 
 - Legislative- the part that makes laws
-- Executive - the part that carries out (executes) the laws, and
+- Executive - the part that carries out (executes) the laws
 - Judiciary - the courts that decide if the law has been broken
 
 This concept is called **_separation of powers_**. This exists to ensure that
-for example, that people cannot create laws (as part of the legislative) that
+for example, people cannot create laws (as part of the legislative) that
 they can execute (as part of the executive) to help just themselves or give
 themselves more power, or ignore laws they've broken (as part of the
-judiciary).
+judiciary). The three parts keep each other in check, which is known as having
+**_checks and balances_**.
 
 Another concept is **_devolution_**, which is transfer of power from the
 central government to local government. When this transfer of power is
@@ -478,46 +479,115 @@ States of America and Australia, where policies between states can be
 significantly different. The United Kingdom on the other hand is **_unitary
 state_** meaning the majority of power rests with the central government.
 
-The legislative branch of the government can be unicameral, or containing one
-house, or bicameral, or containing two houses. Most governments have a
+## Legislative
+
+The legislative branch of the government can be unicameral, containing one
+house, or bicameral, containing two houses. Most governments have a
 bicameral system to avoid having power concentrated in one group. The United
-Kingdom legislative branch is called the Parliament and has the House of
-Commons and the House of Lords. The United States legislative branch is called
-the Congress and consists of the House of Representatives and the Senate.
+Kingdom legislative branch is called the Parliament of the United Kingdom and
+consists of the House of Commons and the House of Lords. The United States
+legislative branch is called the Congress and consists of the House of
+Representatives and the Senate. The Indian legislative branch is also called
+the Parliament, and consists of the Lok Sabha and Rajya Sabha.
 
 The bicameral systems typically have a 'lower house' (House of Commons, House
-of Representatives) which consists of members directly elected by the general
-population, and an 'upper house'(House of Lords, Senate) consisting of members
-who are appointed in some manner.
+of Representatives, Lok Sabha) which consists of members directly elected by
+the general population, and an 'upper house'(House of Lords, Senate, Rajya
+Sabha) consisting of members who are separately appointed in some manner.
+
+Members who are elected to the lower house are often part of groups called
+'parties', these are groups of people who hold similar political ideologies.  
+The leaders of the party are the face of the election campaigns. Though their
+personalities can have a significant influence on the outcome of the election,
+citizens are voting for the party they feel best matches their own ideologies
+and the policies they most agree with, which that party say the intend to
+create. Party members don't stand for election nationally, but rather for a
+specific region, and if their party gets the most votes in that region, they
+are said to then go on to represent that region in parliament. The head of the
+government is the leader of the party that then has the most representatives in
+government. This party is said to have the majority, while party getting the
+second highest number of votes is said to have the minority.
 
 You may come across the terms 'head of state' and 'head of government'. These
 terms exists because historically the head of the state was the king and as
-countries evolved to incorporate democracy and have elected government, there
+countries evolved to incorporate democracy and have elected governments, there
 was also the head of the government. In countries that evolved this way, the
-head of state role is now largely ceremonial.
+head of state role is now largely ceremonial. For example, in the United
+Kingdom the head of government is the Prime Minister, while the head of state
+is Queen Elizabeth II. In countries that didn't evolve this way the leader of
+the executive often takes the head of state and head of government titles, but
+may just take the head of state title while the head of government is said to
+be the leader of the legislature.
 
-There are two primary ways that the executive branch is set up, the
-parliamentary system and presidential system.
+## Executive
+
+You would have likely heard the terms Prime Minister and President, and that
+some countries have one and not the other. This happens because it's based on
+one of two primary ways that the executive branch is set up, the parliamentary
+system and presidential system. Depending on how things are setup, it changes
+who is effectively the head of government and has the most power in government.
+
 In a parliamentary system, the executive branch often derives from the
-legislature. In the United Kingdom, it is called the Cabinet and is headed by
-the Prime Minister, who is also the leader of the party that won a majority in
-the general election, and therefore has the most seats in the lower house, the
-House of Commons.
-Parliamentary systems often also have a different of 'head of state' as
-mentioned previously. The U.K's head of state is Queen Elizabeth II.
+legislative, with the head of the executive branch also being the head of the
+legislative branch. This though infringing on the concept of separation of
+powers, still works because checks and balances are maintained through other
+processes, like having a separate head of state or other laws that are in
+place to limit power. The executive also consists of the heads of the different
+government departments.
+
+United Kingdom follows a parliamentary system; the head is the Prime Minister,
+who is the leader of the party that won a majority of votes in the general
+election. The executive is called the Cabinet and the rest of the members are
+selected by the Prime Minister, and they are called Cabinet Ministers.
+
 In a presidential system, there is stricter separation between the executive
-and the legislature, and the President is the head of the executive. The
-President may be elected in the general election by the citizens as is the case
-in the United States, with the head of the lower house, the House of
-Representatives being the elected and called the speaker. The President may
-also be appointed by the elected members of legislature, as is the case in
-India, with the head of the lower house being the Prime Minister.
+and the legislature. The President is the head of the executive, while the
+Prime Minister (if one exists) is the head of the legislature.
+
+The United States follows a presidential system; the head is the President, who
+is the leader of the party who received the majority of votes in the general
+election. The executive is also called the Cabinet and chosen by the President.  
+The leaders of the legislature (Congress) meanwhile are elected by their
+respective houses (House of Representatives and Senate). Each house, from their
+respective parties elect a Majority Leader, Majority Whip, Minority Leader and
+Minority Whip. The main leader of the Congress, elected by members from all
+parties is the Speaker of the House, who is elected by the House of
+Representatives.
+
+India is unique in that although it follows a parliamentary system, with the
+head of government (of executive and legislature), the Prime Minister, being
+the person with the most power, there is also a President. This is largely a
+ceremonial role, and it was created to replace the head of state role held by
+King George VI when India gained independence from the British Empire. The
+executive is called the Union Council of Ministers and is chosen by the Prime
+Minister
 
 ---
 
 ---
 
 # Voting
+
+Voting is the way through which everyone in a democracy can participate in the
+political process. It's important to vote even if you feel the party you would
+like to win, stands little change of winning in your region. This is because it
+shows support for the policies that party is advocating for, and makes it more
+likely that the winning party will pay attention to them. Even if you don't
+want to vote, because for example you highly disagree with all parties or feel
+disillusioned with the political process and you feel you aren't truly being
+heard, you can make this known by 'spoiling the ballot'. You do this by
+submitting a ballot that is ineligible, like the example below. These are
+recorded and counted, they just won't be a vote towards any party.
+
+Before voting it's important to first understand what your views and what
+changes you would like to be made in society. Hopefully this resource you have
+just gone through has contributed to that. Some more resources include:
+
+` `
+``
+
+Secondly you find the party that most fits your views, which is done by reading
+the parties manifesto
 
 ---
 
