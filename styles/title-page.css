@@ -13,6 +13,7 @@ body {
   #wrapper-title {
     flex-direction: column;
     text-align: center;
+    width: 80%;
   }
 }
 
